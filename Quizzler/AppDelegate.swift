@@ -3,7 +3,7 @@
 //  Quizzler
 //
 //  Created by mazi on 22/11/2015.
-//  Copyright (c) 2015 mazi. All rights reserved.
+//  Copyright © 2017 mazi. All rights reserved.
 //
 
 import UIKit
